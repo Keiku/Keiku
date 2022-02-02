@@ -10,7 +10,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Keiku&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Keiku's github stats"/>
 
-A Neru Nagahama fan's programmer from Japan, currently working as AI Research Engineer at Mobility Technologies Co., Ltd. Mainly research and development with mmdetection and detectron2.
+I'm currently working as AI Research Engineer at Mobility Technologies Co., Ltd.
 
 <!--
 **Keiku/Keiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
