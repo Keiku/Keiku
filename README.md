@@ -2,6 +2,7 @@
 
 <p>
   <a href="https://github.com/Keiku?tab=followers"> <img src="https://img.shields.io/github/stars/Keiku?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
+  [![Visitor](https://visitor-badge.glitch.me/badge?page_id=Keiku.Keiku)](https://github.com/Keiku/Keiku)
   <a href="mailto:kuroyanagi.keiichi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email">
   <a href=""> <img src="https://img.shields.io/badge/Major-Physics-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
