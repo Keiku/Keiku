@@ -9,7 +9,7 @@
   <a href=""> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="22px"> </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Keiku&theme=graywhite&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Keiku's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Keiku&theme=graywhite&show_icons=true&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Keiku's github stats"/>
 
 I'm currently working as AI Research Engineer at Mobility Technologies Co., Ltd.
 
