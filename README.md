@@ -1,7 +1,7 @@
 ### Hi, I'm Keiku 👋 
 
 <p>
-  [![Visitor](https://visitor-badge.glitch.me/badge?page_id=Keiku.Keiku)](https://github.com/Keiku/Keiku)
+  <a href=""> <img src="https://img.shields.io/github/stars/Keiku?label=Stars&style=plastic" height="22px" alt="github stars" /> </a>
   <a href="mailto:kuroyanagi.keiichi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="22px" alt="Email">
   <a href=""> <img src="https://img.shields.io/badge/Major-Physics-black?style=for-the-badge&logo=ABB%20RobotStudio&logoColor=ffffff" height="22px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="22px"> </a>
